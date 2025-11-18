@@ -7,13 +7,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.monotonicclock"
+    namespace = "io.github.gaurav712.monotonicclock"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.monotonicclock"
+        applicationId = "io.github.gaurav712.monotonicclock"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

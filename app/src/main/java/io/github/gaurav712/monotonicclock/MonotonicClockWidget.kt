@@ -1,4 +1,4 @@
-package com.example.monotonicclock
+package io.github.gaurav712.monotonicclock
 
 import android.content.Context
 import androidx.glance.GlanceId

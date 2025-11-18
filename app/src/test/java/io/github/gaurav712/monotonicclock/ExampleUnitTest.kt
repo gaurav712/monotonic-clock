@@ -1,4 +1,4 @@
-package com.example.monotonicclock
+package io.github.gaurav712.monotonicclock
 
 import org.junit.Test
 
